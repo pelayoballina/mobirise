@@ -1,0 +1,1592 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.8.7",
+    "versionPublish": "4.12.3",
+    "name": "EL LLAR DE LA CATEDRAL",
+    "favicon": "@PROJECT_PATH@/assets/images/1-800x800-26.jpg",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "theme": {
+      "additionalSetColors": [
+        "#412323",
+        "#efcd91",
+        "#ece9de",
+        "#f2e7d7",
+        "#9c9c9c"
+      ]
+    },
+    "imageResize": true,
+    "uniqCompNum": 44,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": true,
+      "colorText": "#000000",
+      "colorBg": "#f2e7d7",
+      "colorButton": "",
+      "colorLink": "#412323",
+      "underlineLink": false,
+      "opacity": "99",
+      "opacityOverlay": "71",
+      "text": "Utilizamos cookies para brindarle la mejor experiencia en la navegación de este sitio web. Lea nuestra <a href='politicadecookies.html'> política de cookies</a>.",
+      "textButton": "Aceptar"
+    },
+    "gdpr": {
+      "colorText": "#ffffff",
+      "colorLink": "#efcd91",
+      "underlineLink": true,
+      "text": "Acepto las condiciones de protección de datos. Al continuar, acepta nuestros <a href='avisoslegales.html'> Avisos Legales."
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "EL LLAR DE LA CATEDRAL",
+        "meta_descr": "Restaurante El Llar de la Catedral. Oviedo. Asturias",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo%20el%20llar-194x160.jpg"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f2e7d7"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#412323",
+            "hamburgerColor": "#f2e7d7"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logollarclaro-280x65.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "El llar de la catedral",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/llar1-2276x1290-52.jpg",
+                "showTitle": true,
+                "title": "LA MEJOR GASTRONOMÍA EN EL CORAZÓN DE OVIEDO",
+                "showText": true,
+                "text": "<br>Situado en la plaza más bonita de la ciudad, nuestro restaurante dispone de una sala para XX comensales y una amplia terraza en la que disfrutar de&nbsp;las mejores vistas de la Catedral.",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7-2235x1257-8.jpg",
+                "showTitle": true,
+                "title": "PRODUCTOS DE CERCANÍA Y DE TEMPORADA",
+                "showText": true,
+                "text": "<br>En nuestra carta encontrarás platos cocinados con productos de temporada. Tratamos la materia prima con el máximo respeto para mantener intactos los sabores.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.2"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/llar2-1772x1181-17.jpg",
+                "showTitle": true,
+                "title": "COCINA VISTA: MIRA COMO LO HACEMOS",
+                "showText": true,
+                "text": "<br>En nuestro comedor hay una gran cristalera por la que se puede apreciar el cariño y cuidado con el que tratamos y manipulamos los productos que cocinamos.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/9-2235x1257-0.jpg",
+                "showTitle": true,
+                "title": "CLIMATIZACIÓN E HIGIENE",
+                "showText": true,
+                "text": "<br>Procuramos siempre que tu estancia sea lo más agradable posible, para ello diponemos de aire acondicionado y&nbsp;generador de ozono para la higiene ambiental y de las superficies.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.4"
+              }
+            ]
+          },
+          "_anchor": "slider-2",
+          "articleLayout": false,
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "16px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "52",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412323",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/taxi1-1000x563.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "mobirise-icons-bold",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ENVÍO A DOMICILIO<br>",
+          "text": "<p>Ante la nueva situación sanitaria que estamos viviendo os proponemos nuestro nuevo servicio de envío a domicilio. <br>Podéis escoger cualquier plato de nuestra carta o encargar vuestras propias sugerencias.<br>Envíos sólo en la zona de Oviedo.</p><p> PEDIDO MÍNIMO 30€ + GASTOS DE ENVÍO 5€</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efcd91",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-delivery mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 33px; color: rgb(255, 255, 255);\"></span>HACER PEDIDO</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-i"
+        },
+        {
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "title": "NUESTRA CARTA",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "<b><span style=\"font-style: normal;\">Todos nuestros platos se cocinan con aceite de oliva.<br></span></b><b style=\"font-style: normal;\">\u0003<br></b>Además de la carta, cocinamos por encargo el plato que Ud. desee. Consúltenos!.<br><br><span style=\"line-height: 1.42857143;\">Los precios en terraza se incrementan un 10%</span><br><span style=\"line-height: 1.42857143;\"><br></span>El envío a domicilio (sólo en la zona de Oviedo) tiene un coste añadido de 5€/pedido",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "48px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#a38f84",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PARA ABRIR BOCA<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>ENSALADA DE TRONCO DE BONITO,&nbsp;CEBOLLA CARAMELIZADA,<br>PIMIENTO ASADO Y ALIOLI.....<b>16€&nbsp;</b></p><p>ENSALADA DE LANGOSTINOS, PIÑA Y CHERRYS.....<b>16€</b></p><p>TOMATE, JAMÓN IBÉRICO, MOZARELLA Y RÚCULA.....<b>18€</b></p><p>\nLOMOS DE SARDINA MARINADOS EN CAMA DE TOMATE AZUL.....<b>18€\n</b></p><p>TERRINA DE FOIE CON COMPOTA DE HIGOS PASOS.....<b>19€\n</b></p><p>CECINA DE LEÓN CON QUESO MANCHEGO.....<b>15€\n</b></p><p>COPPA IBÉRICA JOSELITO CON PAN TUMACA.....<b>17€\n</b></p><p>CROQUETAS CASERAS DE JAMÓN IBÉRICO.....<b>9€\n</b></p><p>CROQUETAS DE JALAPEÑOS.....<b>9€\n</b></p><p>CALAMARES DE CANDÁS A LA ROMANA.....<b>16€\n</b></p><p>QUESO LAZANA A LA PLANCHA CON COMPOTA DE TOMATE.....<b>18€\n</b></p><p>PULPO DE PEDRERU RUSTIDO SOBRE CREMA DE PATATA.....<b>19€\n</b></p><p>SALTEADO DE SETAS DE TEMPORADA AL AJILLO.....<b>15€\n</b></p><p>SALTEADO DE SETAS DE TEMPORADA\nCON LANGOSTINOS AL AJILLO.....<b>18€\n</b></p><p>PARRILLADA DE VERDURAS.....<b>16€</b></p><p>\nALCACHOFAS CON ALMEJAS DE MARIN EN SALSA VERDE.....<b>24€\n</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": false,
+            "bgColor": "#412323",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1-640x640-7-640x640-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-640x640-7.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/16-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-640x640.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/35-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/35-640x640.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/20-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20-640x640.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "_anchor": "gallery1-6",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "DE LA LLUMBRE DEL LLAR",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>CALLOS CASEROS (Media ración).....<b>8€&nbsp;</b></p><p>CALLOS CASEROS (Ración).....<b>15€&nbsp;</b></p><p>FABADA ASTURIANA.....<b>16€&nbsp;</b></p><p>POTE ASTURIANO.....<b>17€</b></p><p>FABES CON ALMEJAS.....<b>17€&nbsp;</b></p><p>GARBANZO DE “GOMEZELLO” CON PIXÍN Y ALMEJAS.....<b>17€&nbsp;</b></p><p>ARROZ NEGRO CON CALAMARES.....<b>17€</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#412323",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/31-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/31-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-e"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "DE LOS PUERTOS DEL CANTÁBRICO",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>CALAMAR EN SU TINTA CON PATATINAS FRITAS.....<b>17€</b></p><p>CACHOPO DE MERLUZA EN SALSA VERDE CON ALMEJAS.....<b>21€ </b></p><p>FRITOS DE MERLUZA CON SALSA TÁRTARA.....<b>18€</b></p><p>FRITOS DE PIXÍN.....<b>23€&nbsp;</b></p><p>PIXÍN A LA ONDARRESA.....<b>25€</b></p><p>BROCHETAS DE PIXÍN Y LANGOSTINOS CON SU REFRITO.....<b>25€</b></p><p>MERLUZA DEL PINCHO CON VINAGRETA DE TOMATE.....<b>18€</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#412323",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/9-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-9"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "DE NUESTROS VALLES Y MONTAÑAS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>PLATO COMBINADO: PATATAS, HUEVOS, CHORIZO Y JAMÓN.....<b>14€&nbsp;</b></p><p>CACHOPO DE TERNERA ASTURIANA\nCON JAMÓN IBÉRICO Y QUESO VIDIAGO.....<b>16€</b></p><p>\nTACOS DE ENTRECOT DE TERNERA\nCON SU GUARNICIÓN.....<b>15€\n</b></p><p>LINGOTE DE RABO DE TORO\nSOBRE CREMOSO DE PATATA.....<b>17€\n</b></p><p>CARRILLERAS IBÉRICAS AL PEDRO XIMÉNEZ.....<b>15€\n</b></p><p>MANOS DE CERDO GUISADAS AL ESTILO TRADICIONAL.....<b>15€\n</b></p><p>ENTRECOT DE NOVILLA ASTURIANA CON GUARNICIÓN.....<b>18€\n</b></p><p>ESCALOPINES DE TERNERA AL QUESO AZUL.....<b>14€\n</b></p><p>CHAMÓN DE TERNERA GOBERNADA\n AL ESTILO OVIEDO.....<b>15€\u0003\n</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#412323",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/12-1-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-1-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18-640x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-640x640-640x640.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-d"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "LLAMBIONAES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>LECHE FRITA.....<b>4,50€</b></p><p>\nARROZ CON LECHE DE MI GÜELA.....<b>4€\n</b></p><p>FLAN DE HUEVO CASERO CON HELADO DE NATA.....<b>4€\n</b></p><p>NATILLAS CASERAS CON SU GALLETA OREO.....<b>4€\n</b></p><p>COULANT DE CHOCOLATE CALIENTE CON HELADO DEL HUERTO.....<b>5€\n</b></p><p>HELADO DE TURRÓN “DIEGO VERDÚ”.....<b>5€</b></p><p>\nTARTA DE FRIXUELOS CON CREMA PASTELERA Y MANZANA.....<b>5€\n</b></p><p>TARTA DE QUESO.....<b>4,50€</b></p><p>\nHELADO DE CHOCOLATE Y AVELLANA.....<b>5€\n</b></p><p>PERA AL VINO TINTO.....<b>4,50€\n</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#412323",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/29-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-640x640.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/30-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/30-640x640.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/33-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/33-640x640.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/32-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/32-640x640.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-b"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6-943x1257.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a38f84",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "RESERVA TU MESA O&nbsp;HAZ UN PEDIDO",
+          "form": {
+            "action": "elllardelacatedraloviedo@gmail.com",
+            "alerts": {
+              "success": "Gracias. Hemos recibido mensaje. En breve nos pondremos en contacto contigo para confirmar tu reserva."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Plaza Alfonso II el casto, 8 Oviedo",
+              "placeId": "ChIJIXVBue-MNg0Rf-JvhU6qd7Y",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-t"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2e7d7",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "SÍGUENOS EN&nbsp;",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/elllardelacatedral\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/elllardelacatedral/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-el-llar-265x150.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-11",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#9c9c9c",
+              "font-size": "11px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "avisoslegales.html": {
+      "settings": {
+        "meta_descr": "Politica de privacidad del sitio web",
+        "title": "Avisos Legales",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f2e7d7"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#412323",
+            "hamburgerColor": "#f2e7d7"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logollarclaro-280x65.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "El llar de la catedral",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-m"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "AVISOS LEGALES",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "32px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "DATOS DE LA EMPRESA",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "text": "<div>EL LLAR DE LA CATEDRAL, en cumplimiento de lo dispuesto en el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE), pone a disposición de sus clientes, sus datos identificativos.</div><div><b>Denominación social: EL LLAR DE LA CATEDRAL&nbsp;<br></b><b>Domicilio social: Plaza Alfonso II El Casto, 8. Oviedo Asturirias. España<br></b><b>Teléfono: 673 350 744<br></b><b>NIF: B-19307305<br></b><b>Email: elllardelacatedraloviedo@gmail.com</b></div><div><br></div><div><b>Datos de inscripción en el registro mercantil: <br></b>EL LLAR DE LA CATEDRAL, <i>constituida en XXXXXXXXXX, en el año XXXXX, por Escritura Pública número XXXXX, ante el notario D. XXXXXX XXXXXXX XXXXX, del Ilustre Colegio de XXXXXXXXXXXXXX, inscrita en el Registro Mercantil de XXXXXXXXX, en el Tomo XXXXXX, Libro XXX, Folio XXXXXX.</i></div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "CONDICIONES LEGALES",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-x"
+        },
+        {
+          "text": "<div><b>Políticas y Condiciones Legales</b><br></div><div>EL LLAR DE LA CATEDRAL, conforme a los requerimientos de la legislación vigente, pone a tu disposición la Política de Protección de Datos de Carácter Personal aplicable en la prestación de sus servicios, así como la Política de Cookies y de Uso de su página web:&nbsp;</div><div><br></div><div><b>PROTECCIÓN DE DATOS PERSONALES&nbsp;</b></div><div>Los datos personales solicitados para la prestación de nuestros servicios se incluyen en ficheros sometidos a lo dispuesto en la Ley Orgánica de Protección de Datos 15/1999 (LOPD) y en el Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba el reglamento de desarrollo de la misma (RLOPD) y el Reglamento General de Protección de Datos de la Unión Europea (UE 2016/679 RGPD).</div><div>La recogida y tratamiento de dichos datos se llevan a cabo por EL LLAR DE LA CATEDRAL, y tienen por finalidad la gestión, prestación, ampliación y mejora de los servicios solicitados en cada momento por el usuario, el seguimiento de consultas, participación en procesos de selección de personal, comunicaciones electrónicas y/o la confección de estadísticas.</div><div>Los servicios prestados por EL LLAR DE LA CATEDRAL están dirigidos a mayores de edad. En el supuesto excepcional de que se desarrollará algún servicio dirigido específicamente a menores de dicha edad, EL LLAR DE LA CATEDRAL solicitará la conformidad de los padres o tutores para la recogida de los datos personales o, en su caso, para el tratamiento de los mismos.</div><div>EL LLAR DE LA CATEDRAL se compromete al cumplimiento de su obligación de secreto con respecto a los datos de carácter personal suministrados y al deber de tratarlos con confidencialidad y reserva, conforme a la legislación vigente. A estos efectos adoptará las medidas necesarias para evitar su alteración, pérdida, tratamiento o acceso no autorizado.</div><div><br></div><div><b>DERECHOS DE LOS INTERESADOS</b></div><div>La normativa vigente de protección de datos le ampara en una serie de derechos en relación al uso que le damos a sus datos. Todos y cada uno de sus derechos son unipersonales e intransferibles, es decir, que únicamente pueden ser realizados por el titular de los datos, previa comprobación de su identidad.</div><div>A continuación, te indicamos cuales son los derechos que le asisten:</div><div>- Solicitar el acceso a sus datos personales.</div><div>- Solicitar la rectificación de sus datos.</div><div>- Solicitar la supresión o eliminación de sus datos (derecho al \"olvido\").</div><div>- Limitar u oponerte al uso que le damos a sus datos.</div><div>- Derecho a la portabilidad de sus datos para casos de servicios de telecomunicaciones o internet.</div><div>- Derecho a retirar su consentimiento en cualquier momento.</div><div>- Derecho a presentar una reclamación en materia de protección de datos ante la autoridad de control (agencia española de protección de datos)</div><div><br></div><div><b>¿Cómo puede ejercer sus derechos en relación a sus datos?</b></div><div>Para el ejercicio de sus derechos de acceso, rectificación, supresión, limitación u oposición, portabilidad y retirada de su consentimiento, puede hacerlo de la siguiente forma:</div><div>Responsable: EL LLAR DE LA CATEDRAL</div><div>Dirección: Plaza Alfonso II El Casto, 8. Oviedo Asturirias. España</div><div>Teléfono: 673 350 744</div><div>Email: elllardelacatedraloviedo@gmail.com</div><div><br></div><div><b>¿Cómo puede presentar una reclamación?</b></div><div> Además de los derechos que le asisten, si cree que sus datos no se están recabando o tratando conforme a la normativa vigente de Protección de Datos, usted podrá realizar una reclamación ante la Autoridad de Control, cuyos datos de contacto indicamos a continuación:&nbsp;</div><div>Agencia Española de Protección de Datos</div><div>C/. Jorge Juan, 6. 28001, Madrid (Madrid), España</div><div>Email: info@agpd.es - Teléfono: 912663517</div><div>Web: https://www.agpd.es</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "POLITICAS DE USO",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-z"
+        },
+        {
+          "text": "<div><b>USO DE LOS PRODUCTOS Y RESPONSABILIDAD</b><br></div><div>El cliente es responsable del cumplimiento de las leyes y reglamentos en vigor y las reglas aplicables al uso que de los productos y aplicaciones realice. No obstante, se prohíbe el uso de los productos de EL LLAR DE LA CATEDRAL contrario a la buena fe, al orden público, a la legislación vigente y, en particular, de forma no exhaustiva:</div><div>· La utilización que resulte contraria a las leyes españolas o que infrinja los derechos de terceros.</div><div>· La publicación o la transmisión de cualquier contenido que resulte violento, obsceno, abusivo, ilegal, xenófobo o difamatorio.</div><div>· Alterar o intervenir por medios fraudulentos, páginas web personales o correos electrónicos o sistemas de otros usuarios o terceros sin autorización de los mismos.</div><div>· Los cracks, números de serie de programas o cualquier otro contenido que vulnere derechos de la propiedad intelectual de terceros.</div><div>· La recogida y/o utilización de datos personales de otros usuarios sin su consentimiento expreso o contraviniendo lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y la legislación de desarrollo en dicha materia.</div><div>· La utilización del servidor de correo del dominio y de las direcciones de correo electrónico con los fines de spam, mail bombing, phishing, escrow fraud, scam 419, pharming, difusión de virus (troyanos, gusanos, etc.), o cualquier otro tipo de actividad realizada con ánimo saboteador, fraudulento o delictivo.</div><div>El cliente y/o el titular del nombre de dominio garantiza a EL LLAR DE LA CATEDRAL que el producto elegido no se contrata con propósitos ilícitos ni lesiona los derechos de propiedad intelectual e industrial u otros derechos e intereses legítimos de terceros.</div><div>El cliente se obliga a mantener operativa, activa y actualizada la dirección e-mail proporcionada en el formulario de contratación para las comunicaciones con EL LLAR DE LA CATEDRAL, ya que constituye el medio de comunicación preferente de EL LLAR DE LA CATEDRAL.</div><div>El cliente es el único responsable de la utilización y conservación de los login y passwords facilitados por EL LLAR DE LA CATEDRAL para el uso de las herramientas que se ponen a su disposición para la gestión de los productos contratados, ya que son los identificadores necesarios que permiten contrastar a EL LLAR DE LA CATEDRAL la autentificación del acceso del cliente y facilitar el permiso a las actuaciones que se soliciten desde estas herramientas. El uso de estos identificadores y la comunicación, incluso a terceras personas, se produce bajo la única responsabilidad del cliente.</div><div>El cliente tiene la total responsabilidad del contenido de su web, de la información transmitidas y almacenadas de sus explotaciones, de los enlaces de hipertexto, de las reivindicaciones de terceros y de las acciones legales que pueden desencadenar en toda la referencia a propiedad intelectual e industrial, derechos de la personalidad y protección de menores.</div><div>Queda prohibido acceder, modificar, visualizar la configuración, estructura y ficheros de los servidores de EL LLAR DE LA CATEDRAL. Ante cualquier problema que se pudiera producir en los servidores y sistemas de seguridad de EL LLAR DE LA CATEDRAL como consecuencia directa de una actuación negligente del cliente, éste responderá por la responsabilidad civil y penal que le pudiera corresponder.</div><div>El cliente respetará los estándares técnicos dispuestos por EL LLAR DE LA CATEDRAL en la administración y desarrollo de los productos contratados de forma que no se produzca uso abusivo que ralentice los servidores perjudicando la prestación de los productos o derechos de otros clientes.</div><div>Los usuarios que contraten a través del sitio web http://www.xxxxxxxxxxxxxxxxx.es reconocen ser mayores de edad. La contratación llevada a cabo por menores de edad requiere la autorización previa de sus padres, tutores o representantes legales, los cuales serán considerados responsables de la contratación llevada a cabo por los menores a su cargo. Serán los menores de edad quienes deben recabar el consentimiento necesario para proceder a la contratación.</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-10"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "COMPROMISOS",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-11"
+        },
+        {
+          "text": "<div><b>No realizar publicidad engañosa:</b><br></div><div>EL LLAR DE LA CATEDRAL se compromete a no realizar publicidad engañosa. A estos efectos, no serán considerados como publicidad engañosa los errores formales o numéricos que puedan encontrarse a lo largo del contenido de las distintas secciones de la web, producidos como consecuencia de un mantenimiento y/o actualización incompleta o defectuosa de la información contenida es estas secciones. EL LLAR DE LA CATEDRAL como consecuencia de lo dispuesto en este apartado, se compromete a corregirlo tan pronto como tenga conocimiento de dichos errores.</div><div><br></div><div><b>No remitir comunicaciones comerciales sin identificarlas</b></div><div>Conforme a lo dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y de comercio electrónico, EL LLAR DE LA CATEDRAL se compromete a no remitir comunicaciones publicitarias o promocionales por correo electrónico u otro medio de comunicación electrónica equivalente sin identificarlas como comunicación comercial y sin que previamente no hubieran sido solicitadas o expresamente autorizadas por los destinatarios de las mismas.</div><div>A estos efectos no será considerado como comunicación comercial toda la información que se envíe a los clientes de EL LLAR DE LA CATEDRAL siempre que tenga por finalidad el mantenimiento de la relación contractual existente, así como el desempeño de las tareas de información, formación y otras actividades propias del servicio que el cliente tiene contratado con EL LLAR DE LA CATEDRAL.</div><div>Además el destinatario podrá revocar el consentimiento para el tratamiento de sus datos con fines promocionales de una manera directa, contactando por correo a elllardelacatedraloviedo@gmail.com</div><div><br></div><div><b>RESPONSABILIDADES</b></div><div>EL LLAR DE LA CATEDRAL no será responsable de los daños y perjuicios producidos o que puedan producirse, cualquiera que sea su naturaleza, que se deriven del uso de la información, de las materias contenidas en este web site y de los programas que incorpora. Los enlaces (links) e hipertexto que posibiliten, a través del sitio web https://www.xxxxxxxxxxxxxxxxx.com, acceder al usuario a prestaciones y servicios ofrecidos por terceros, no pertenecen ni se encuentran bajo el control de EL LLAR DE LA CATEDRAL.<br></div><div>EL LLAR DE LA CATEDRAL no se responsabiliza del uso que el usuario de la web realice de los servicios, contenidos, enlaces (links) e hipertexto incluidos en el sitio web https://www.xxxxxxxxxxxxxxxxx.com<br></div><div>EL LLAR DE LA CATEDRAL no se hace responsable del uso ilegítimo que terceras personas no autorizadas puedan hacer de los nombres de marca, nombres de producto, marcas comerciales que, no siendo propiedad de dicha entidad, aparezcan en https://www.xxxxxxxxxxxxxxxxx.com. Tampoco se responsabiliza de la integridad, veracidad y licitud del contenido de los enlaces a las webs a las que pueda accederse desde<i> https://www.xxxxxxxxxxxxxxxxx.com</i><br></div><div>EL LLAR DE LA CATEDRAL no se responsabiliza de los virus que tengan su origen en una transmisión telemática infiltrados por terceras partes (por ejemplo, los macros de procesadores de texto, los applets de Java y los programas ActiveX), generados con la finalidad de obtener resultados negativos para un sistema informático.<br></div><div><br></div><div><b>LEY APLICABLE Y JURISDICIÓN</b></div><div>La ley aplicable en caso de disputa o conflicto de interpretación de los términos que conforman este Aviso Legal, así como cualquier cuestión relacionada con los servicios del presente Portal, será la ley española.</div><div>Para la resolución de cualquier conflicto que pueda surgir con ocasión de la visita al sitio Web o del uso de los servicios que en él se puedan ofertar, EL LLAR DE LA CATEDRAL y el Usuario acuerdan someterse a los Jueces y Tribunales de domicilio del Usuario, siempre que el mismo esté situado en territorio español y actúe en condición de consumidor. En caso contrario, la sumisión será a los juzgados y tribunales de Guadalajara, España.</div><div><br></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-12"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "COOKIES",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-13"
+        },
+        {
+          "text": "<div>EL LLAR DE LA CATEDRAL utiliza “cookies” en la navegación por sus páginas web (http://www.xxxxxxxxxxxxxxxxxx.es). Las cookies se almacenan en el equipo terminal del usuario (ordenador o dispositivo móvil) y recopilan información al visitar las páginas web de EL LLAR DE LA CATEDRAL, con la finalidad de mejorar la usabilidad de las mismas, conocer los hábitos o necesidades de navegación de los usuarios para poder adaptarse a los mismos, así como obtener información con fines estadísticos. En el caso de aquellos usuarios que ya sean clientes de EL LLAR DE LA CATEDRAL, la información recabada con las cookies servirá también para su identificación al acceder a las distintas herramientas que EL LLAR DE LA CATEDRAL pone a su disposición para la gestión de los servicios.<br></div><div>En cualquier caso, los usuarios pueden configurar su navegador, de manera que se deshabilite o bloquee la recepción de todas o algunas de las cookies. El hecho de no desear recibir estas cookies, no constituye un impedimento para poder acceder a la información de los sitios web de EL LLAR DE LA CATEDRAL aunque el uso de algunos servicios podrá ser limitado. Si una vez otorgado el consentimiento para la recepción de cookies, se desease retirar éste, se deberán eliminar aquellas almacenadas en el equipo del usuario, a través de las opciones de los diferentes navegadores.</div><div>Toda la información sobre las cookies utilizadas por EL LLAR DE LA CATEDRAL, se encuentra publicada en su Política de Cookies, disponible para su consulta en <i>https://xxxxxxxxxxxxxxxxxxxxxxxxxx.es/politicacookies.html</i></div><div><i><br></i></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-14"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "COPYRIGHT",
+          "meta": "<b style=\"font-style: normal;\">DATOS DE LA EMPRESA</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#b8312f"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#b8312f"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-15"
+        },
+        {
+          "text": "<div>Todos los derechos derivados de la propiedad intelectual e industrial están expresamente reservados por EL LLAR DE LA CATEDRAL. El código fuente, los diseños gráficos, las imágenes, las fotografías, los sonidos, las animaciones, el software, los textos, los nombres de dominio, las marcas, así como la información y los contenidos recogidos a lo largo de toda la web están protegidos por la legislación española a favor de EL LLAR DE LA CATEDRAL.<br></div><div>EL LLAR DE LA CATEDRAL no permite, ni total o ni parcialmente, la reproducción, publicación, tratamiento informático, distribución difusión, modificación, transformación o descompilación ni demás derechos reconocidos legalmente a su titular, sin el permiso previo y por escrito. El usuario, única y exclusivamente, puede utilizar el material que aparezca en este sitio web para su uso personal y privado, quedando prohibido su uso con fines comerciales o cualquier otro uso que no sea personal y privado.</div><div>EL LLAR DE LA CATEDRAL velará por el cumplimiento de las anteriores condiciones como por la debida utilización de su propiedad intelectual e industrial ejercitando todas las acciones legales que le correspondan.</div><div>EL LLAR DE LA CATEDRAL podrá modificar, sin previo aviso, la información contenida en su sitio web, así como su configuración y presentación.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-el-llar-265x150.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-n"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#9c9c9c",
+              "font-size": "11px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "footer1-o"
+        }
+      ]
+    },
+    "politicadecookies.html": {
+      "settings": {
+        "meta_descr": "Terminos de uso",
+        "title": "Política de Cookies",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f2e7d7"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#412323",
+            "hamburgerColor": "#f2e7d7"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logollarclaro-280x65.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "El llar de la catedral",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "POLÍTICA DE COOKIES",
+          "meta": "Hay que poner aquí los textos legales de los términos de uso",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "text": "<p>EL LLAR DE LA CATEDRAL, a través del presente documento, recoge su Política de recogida y tratamiento de cookies, en cumplimiento de lo dispuesto en el artículo 22.2 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico.</p><p><div>Las cookies se almacenan en el equipo terminal del usuario (ordenador o dispositivo móvil) y recopilan información al visitar las páginas web de EL LLAR DE LA CATEDRAL <i>(http://www.xxxxxxxxxxxxxxxxxxxx.es)</i>, con la finalidad de mejorar la usabilidad de las mismas, conocer los hábitos o necesidades de navegación de los usuarios para poder adaptarse a los mismos, así como obtener información con fines estadísticos. En el caso de aquellos usuarios que ya sean clientes de EL LLAR DE LA CATEDRAL, la información recabada con las cookies servirá también para su identificación al acceder a las distintas herramientas que EL LLAR DE LA CATEDRAL puede poner a su disposición para la gestión de los servicios.</div><div><br></div><div>La presente Política de Cookies será de aplicación a aquellos usuarios que voluntariamente visitan las páginas web de EL LLAR DE LA CATEDRAL, cumplimentan formularios de recogida de datos, acceden a las herramientas que EL LLAR DE LA CATEDRAL pone a disposición de susclientes para gestionar sus servicios, o utilizan cualquier otro servicio presente en el sitio web que implique la comunicación de datos a EL LLAR DE LA CATEDRAL, o el acceso a datos por EL LLAR DE LA CATEDRAL para la prestación de sus servicios.</div><div><br></div><div>EL LLAR DE LA CATEDRAL informa a los usuarios de sus páginas web, de la existencia de cookies y pone a su disposición la presente Política con la finalidad de informarles acerca del uso y del objeto de las mismas. El hecho de continuar la navegación a través de sus páginas, supone el conocimiento y la aceptación de la presente Política por parte de dichos usuarios.</div><div><br></div><div>EL LLAR DE LA CATEDRAL utiliza los siguientes tipos de cookies:</div><div><br></div><div><b>· Clasificadas por su titularidad:</b></div><div><b><br></b></div><div>- Cookies propias: enviadas y gestionadas directamente por EL LLAR DE LA CATEDRAL.</div><div><br></div><div>- Cookies de terceros: enviadas y gestionadas por un tercero ajeno a EL LLAR DE LA CATEDRAL, de forma anónima, con la finalidad de realizar estudios estadísticos de navegación por las páginas web de EL LLAR DE LA CATEDRAL.<br></div><div><br></div><div><b>· Clasificadas por su finalidad:</b></div><div><b><br></b></div><div>- Cookies técnicas y/o de personalización: facilitan la navegación, al identificar la sesión, permitir el acceso a herramientas de acceso restringido, además de configurar a medida las opciones disponibles. Posibilitan la prestación del servicio solicitado previamente por el usuario.</div><div><br></div><div>- Cookies de análisis y/o publicidad: permiten conocer el número de visitas recibidas en las diferentes secciones delas páginas web, los hábitos y tendencias de sus usuarios y en consecuencia, poder mejorar la navegación y el servicio ofrecido por EL LLAR DE LA CATEDRAL (fundamentalmente, Google Analytics), así como gestionar los espacios publicitarios incluidos en la página web visitada por el usuario. Recopila datos de forma anónima con la finalidad de obtener perfiles de navegación de los usuarios.</div><div><br></div><div><b>· Clasificadas por su duración:</b></div><div><b><br></b></div><div>- Cookies de sesión: recaban y almacenan los datos mientras el usuario accede a la página web.</div><div><br></div><div>- Cookies persistentes: recaban y almacenan los datos en el terminal del usuario durante un periodo de tiempo variable en función de cuál sea la finalidad para la que han sido utilizadas.<br></div><div><br></div><div>El tiempo de conservación de las cookies dependerá del tipo de que se trate y siempre será el mínimo indispensable para cumplir su finalidad.</div><div><br></div><div>En cualquier caso, los usuarios pueden configurar su navegador, de manera que se deshabilite o bloquee la recepción de todas o algunas de las cookies. El hecho de no desear recibir estas cookies, no constituye un impedimento para poder acceder a la información de los sitios web de EL LLAR DE LA CATEDRAL aunque el uso de algunos servicios podrá ser limitado. Si una vez otorgado el consentimiento para la recepción de cookies, se desease retirar éste, se deberán eliminar aquellas almacenadas en el equipo del usuario, a través de las opciones de los diferentes navegadores.<br></div><div><br></div><div>Para configurar los diferentes navegadores y ejercitar las acciones señaladas en los párrafos anteriores, consultar en:</div><div> • Safari: <a href=\"https://support.apple.com/kb/HT1677?viewlocale=es_ES\" target=\"_blank\">https://support.apple.com/kb/HT1677?viewlocale=es_ES</a></div><div> • Firefox: <a href=\"https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we\" target=\"_blank\">https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-que-los-sitios-we</a></div><div> • Chrome: <a href=\"https://support.google.com/chrome/answer/95647?hl=es-es\" target=\"_blank\">https://support.google.com/chrome/answer/95647?hl=es-es</a></div><div> • Opera: <a href=\"https://www.opera.com/help/tutorials/security/privacy/\" target=\"_blank\">https://www.opera.com/help/tutorials/security/privacy/</a></div><div> • Internet Explorer: <a href=\"https://support.microsoft.com/kb/260971\">https://support.microsoft.com/kb/260971</a></div><div><br></div><div>EL LLAR DE LA CATEDRAL modificará la presente Política de cookies siempre que se produzcan cambios en la configuración y/o utilización de las mismas, publicando su versión actualizada en sus sitios web.<br></div></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "11px"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-17"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-el-llar-265x150.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-k"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#9c9c9c",
+              "font-size": "11px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "footer1-l"
+        }
+      ]
+    }
+  }
+}
