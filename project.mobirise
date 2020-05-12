@@ -926,9 +926,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
-          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "text1": "<strong><br>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong><br>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -938,7 +938,7 @@
             "P": {
               "color": "#ffffff",
               "font-size": "14px",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -967,7 +967,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 |&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a><br>Diseño: <a href=\"http://www.elefante-rojo.es\" target=\"_blank\">Elefante Rojo Comunicación Gráfica</a>",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -1357,9 +1357,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
-          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "text1": "<strong><br>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong><br>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1368,7 +1368,7 @@
             "P": {
               "color": "#ffffff",
               "font-size": "14px",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -1397,7 +1397,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 |&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a><br>Diseño: <a href=\"http://www.elefante-rojo.es\" target=\"_blank\">Elefante Rojo Comunicación Gráfica</a>",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -1534,9 +1534,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
-          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "text1": "<strong><br>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong><br>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1545,7 +1545,7 @@
             "P": {
               "color": "#ffffff",
               "font-size": "14px",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -1574,7 +1574,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 |&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a><br>Diseño: <a href=\"http://www.elefante-rojo.es\" target=\"_blank\">Elefante Rojo Comunicación Gráfica</a>",
           "_styles": {
             "P": {
               "text-align": "center",
@@ -1733,9 +1733,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
-          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "text1": "<strong><br>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong><br>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
           "_tags": [
             "Theme"
           ],
@@ -1744,7 +1744,7 @@
             "P": {
               "color": "#ffffff",
               "font-size": "14px",
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -1773,7 +1773,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 |&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a><br>Diseño: <a href=\"http://www.elefante-rojo.es\" target=\"_blank\">Elefante Rojo Comunicación Gráfica</a>",
           "_styles": {
             "P": {
               "text-align": "center",
