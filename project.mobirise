@@ -18,7 +18,7 @@
       ]
     },
     "imageResize": true,
-    "uniqCompNum": 44,
+    "uniqCompNum": 49,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -103,7 +103,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#msg-box3-1c\">TERRAZA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
@@ -320,7 +320,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_name": "msg-box3",
@@ -333,19 +333,19 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2e7d7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
           },
           "title": "PARA ABRIR BOCA<br>",
           "meta": "By John Smith posted July 30, 2015",
@@ -371,14 +371,14 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/16-640x640-640x640.jpg",
                 "image": "@PROJECT_PATH@/assets/images/16-640x640.jpg",
-                "active": false,
+                "active": true,
                 "alt": "",
                 "title": ""
               },
               {
                 "thumb": "@PROJECT_PATH@/assets/images/35-640x640-640x640.jpg",
                 "image": "@PROJECT_PATH@/assets/images/35-640x640.jpg",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -411,7 +411,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -422,19 +422,19 @@
             "showButton": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2e7d7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
           },
           "title": "DE LA LLUMBRE DEL LLAR",
           "meta": "By John Smith posted July 30, 2015",
@@ -514,7 +514,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -525,19 +525,19 @@
             "showButton": false,
             "paddingTop": "3",
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2e7d7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
           },
           "title": "DE LOS PUERTOS DEL CANTÁBRICO",
           "meta": "By John Smith posted July 30, 2015",
@@ -617,7 +617,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -628,19 +628,19 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2e7d7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
           },
           "title": "DE NUESTROS VALLES Y MONTAÑAS",
           "meta": "By John Smith posted July 30, 2015",
@@ -720,7 +720,7 @@
               "color": "#000000",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "15px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -731,19 +731,19 @@
             "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#f2e7d7",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
           },
           "title": "LLAMBIONAES",
           "meta": "By John Smith posted July 30, 2015",
@@ -984,7 +984,7 @@
       "settings": {
         "meta_descr": "Politica de privacidad del sitio web",
         "title": "Avisos Legales",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1035,7 +1035,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#msg-box3-1c\">TERRAZA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "_anchor": "menu-m"
         },
@@ -1415,7 +1415,7 @@
       "settings": {
         "meta_descr": "Terminos de uso",
         "title": "Política de Cookies",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1466,7 +1466,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#msg-box3-1c\">TERRAZA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "_anchor": "menu-j"
         },
@@ -1585,6 +1585,205 @@
             }
           },
           "_anchor": "footer1-l"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "CARTA TERRAZA",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__section": {
+              "background": "#412323"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#f2e7d7"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "17px"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#412323",
+            "hamburgerColor": "#f2e7d7"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logollarclaro-280x65.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "El llar de la catedral",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL LLAR DE <br>LA CATEDRAL</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-10\">CARTA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#msg-box3-1c\">TERRAZA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\">RESERVAS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-t\">UBICACIÓN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-18"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#7c706b",
+              "font-size": "13px"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "18px"
+            },
+            ".mbr-article": {
+              "color": "#412323"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-terraza-2.gif",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f2e7d7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": true,
+            "overlayColor": "#f2e7d7",
+            "overlayOpacity": "0.5"
+          },
+          "title": "LA TERRAZA DE EL LLAR<br>",
+          "meta": "<br>Todos nuestros platos se cocinan con aceite de oliva<br>",
+          "text": "<p><b><br></b></p><p><b>LOMOS DE SARDINA EN CAMA DE TOMATE AZUL<br></b></p><p>18,00€&nbsp;</p><p><br></p><p><b>ENSALADA DE BONITO CON CEBOLLA CARAMELIZADA, ALIOLI Y PIMIENTOS ASADOS</b></p><p>16,00€</p><p><br></p><p><b>CECINA DE LEÓN CON QUESO MANCHEGO</b><br>15,00€</p><p><b><br></b></p><p><b>COPPA IBÉRICA JOSELITO CON PAN TUMACA</b><br>17,00€</p><p><b><br></b></p><p><b>TABLA DE QUESOS ASTURIANOS</b><br>14,00€</p><p><b><br></b></p><p><b>TABLA DE EMBUTIDOS IBÉRICOS</b><br>17,00€</p><p><br></p><p><b>CROQUETAS CASERAS DE JAMÓN</b></p><p>9,00€</p><p><br></p><p><b>CALAMARES DE CANDÁS A LA ROMANA</b></p><p>16,00€</p><p><br></p><p><b>PULPO RUSTIDO SOBRE CREMA DE PATATA</b></p><p>19,00€</p><p><b><br></b></p><p><b>FRITOS DE MERLUZA CON SALSA TARTARA</b><br>18,00€</p><p><b><br></b></p><p><b>TACOS DE ENTRECOT DE TERNERA CON SU GUARNICIÓN</b><br>15,00€</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#412323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-el-llar-265x150.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>UBICACIÓN</strong><br><br>PLAZA DE LA CATEDRAL<br>Plaza Alfonso II El Casto, nº 8<br>33003. OVIEDO<br>PRINCIPADO DE ASTURIAS<br><br>",
+          "text2": "<strong>RESERVAS<br></strong><br>Teléfono: 984 104 270<br>Móvil: 671 54 43 91<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>CONTACTO</strong><br></p><p class=\"mbr-contacts__text\"><strong><br></strong><a class=\"mbr-contacts__link text-gray\" href=\"mailto:elllardelacatedraloviedo@gmail.com\" style=\"background-color: rgb(65, 35, 35); font-family: Roboto, Helvetica, Arial, sans-serif;\">elllardelacatedraloviedo@gmail.com</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "STRONG": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-19"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "EL LLAR DE LA CATEDRAL (c) 2020 | Diseño: Elefante Rojo Comunicación Gráfica. <a class=\"mbr-footer__link text-gray\" href=\"avisoslegales.html\">Avisos Legales</a>&nbsp;| <a class=\"mbr-footer__link text-gray\" href=\"politicadecookies.html\">Política de cookies</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#9c9c9c",
+              "font-size": "11px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "footer1-1a"
         }
       ]
     }
