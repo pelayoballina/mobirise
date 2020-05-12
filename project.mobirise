@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "carta-terraza.html",
     "versionFirst": "2.8.7",
     "versionPublish": "4.12.3",
     "name": "EL LLAR DE LA CATEDRAL",
@@ -19,7 +19,7 @@
     },
     "imageResize": true,
     "uniqCompNum": 49,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -29,10 +29,10 @@
       "colorBg": "#f2e7d7",
       "colorButton": "",
       "colorLink": "#412323",
-      "underlineLink": false,
+      "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "71",
-      "text": "Utilizamos cookies para brindarle la mejor experiencia en la navegación de este sitio web. Lea nuestra <a href='politicadecookies.html'> política de cookies</a>.",
+      "text": "<br>\n<b>NOTA: ESTE ES UN SITIO DE PRUEBAS</b><br>\nDiseñado por Elefante Rojo Comunicación Gráfica\n<br>\n________________\n<br><br>\n\nUtilizamos cookies para brindarle la mejor experiencia en la navegación de este sitio web. Lea nuestra <a href='politicadecookies.html'> política de cookies</a>.",
       "textButton": "Aceptar"
     },
     "gdpr": {
@@ -40,7 +40,8 @@
       "colorLink": "#efcd91",
       "underlineLink": true,
       "text": "Acepto las condiciones de protección de datos. Al continuar, acepta nuestros <a href='avisoslegales.html'> Avisos Legales."
-    }
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
